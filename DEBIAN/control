@@ -1,0 +1,9 @@
+Package: starship
+Version: VERSION
+Architecture: ARCHITECTURE
+Maintainer: Luke Carrier <luke@carrier.im>
+Homepage: https://github.com/LukeCarrier/starship-repo
+Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+ Compatibility First: Works on the most common shells on the most common operating systems. Use it everywhere!
+ Rust-Powered: Brings the best-in-class speed and safety of Rust, to make your prompt as quick and reliable as possible.
+ Customizable: Every little detail is customizable to your liking, to make this prompt as minimal or feature-rich as you'd like it to be.
