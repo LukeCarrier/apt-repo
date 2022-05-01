@@ -1,0 +1,45 @@
+Package: starship
+Version: 1.6.3
+Architecture: aarch64
+Maintainer: Luke Carrier <luke@carrier.im>
+Filename: ./starship-1.6.3-aarch64.deb
+Size: 2931950
+MD5sum: 19e91c65e15f27d4abd30ae5cd2f8ab6
+SHA1: b86d38625b01f3396117ed36e3d0741041e0ffc1
+SHA256: 1fe63cedd8b8b82ecb499613e3a9e087edf3394adfaa53c3a7968a075ae76170
+Homepage: https://github.com/LukeCarrier/starship-repo
+Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+ Compatibility First: Works on the most common shells on the most common operating systems. Use it everywhere!
+ Rust-Powered: Brings the best-in-class speed and safety of Rust, to make your prompt as quick and reliable as possible.
+ Customizable: Every little detail is customizable to your liking, to make this prompt as minimal or feature-rich as you'd like it to be.
+
+Package: starship
+Version: 1.6.3
+Architecture: amd64
+Maintainer: Luke Carrier <luke@carrier.im>
+Filename: ./starship-1.6.3-amd64.deb
+Size: 2374888
+MD5sum: 036323dbb3b6449a1528aabd64e70b32
+SHA1: b54f93865c0221eea0bf1d0d137bffbb66c8bd48
+SHA256: cbc53300fd87c8797814cc7e43a6bc96d49da998f86a5547c798035432c954c2
+Homepage: https://github.com/LukeCarrier/starship-repo
+Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+ Compatibility First: Works on the most common shells on the most common operating systems. Use it everywhere!
+ Rust-Powered: Brings the best-in-class speed and safety of Rust, to make your prompt as quick and reliable as possible.
+ Customizable: Every little detail is customizable to your liking, to make this prompt as minimal or feature-rich as you'd like it to be.
+
+Package: starship
+Version: 1.6.3
+Architecture: i686
+Maintainer: Luke Carrier <luke@carrier.im>
+Filename: ./starship-1.6.3-i686.deb
+Size: 2420830
+MD5sum: 9d2607be8c492006d2fc675df0371ef1
+SHA1: b574bf6531e2a0e512209ebcb40dd38301ac3800
+SHA256: e919f760fe6d981ed5be4ce20d125f57957ac024302d8df5f416d7fed8aec903
+Homepage: https://github.com/LukeCarrier/starship-repo
+Description: The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+ Compatibility First: Works on the most common shells on the most common operating systems. Use it everywhere!
+ Rust-Powered: Brings the best-in-class speed and safety of Rust, to make your prompt as quick and reliable as possible.
+ Customizable: Every little detail is customizable to your liking, to make this prompt as minimal or feature-rich as you'd like it to be.
+
